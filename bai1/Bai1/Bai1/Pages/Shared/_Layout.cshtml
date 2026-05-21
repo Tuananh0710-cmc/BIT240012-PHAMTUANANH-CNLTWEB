@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Bai1</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="main-nav">
+        <ul>
+            <li><a href="#">🏠</a></li>
+            <li><a href="#">VnE-GO</a></li>
+            <li><a href="#">Thời sự</a></li>
+            <li><a href="#">Thế giới</a></li>
+            <li><a href="#">Kinh doanh</a></li>
+            <li><a href="#">Khoa học công nghệ</a></li>
+            <li><a href="#">Góc nhìn</a></li>
+            <li><a href="#">Spotlight</a></li>
+            <li><a href="#">Bất động sản</a></li>
+            <li><a href="#">Sức khỏe</a></li>
+        </ul>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

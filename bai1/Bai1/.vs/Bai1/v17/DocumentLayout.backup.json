@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CNLTweb\\Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B85E11-A251-48CE-BC92-45683039BB0A}|Bai1\\Bai1.csproj|c:\\cnltweb\\bai1\\bai1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6B85E11-A251-48CE-BC92-45683039BB0A}|Bai1\\Bai1.csproj|solutionrelative:bai1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B85E11-A251-48CE-BC92-45683039BB0A}|Bai1\\Bai1.csproj|c:\\cnltweb\\bai1\\bai1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6B85E11-A251-48CE-BC92-45683039BB0A}|Bai1\\Bai1.csproj|solutionrelative:bai1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B85E11-A251-48CE-BC92-45683039BB0A}|Bai1\\Bai1.csproj|c:\\cnltweb\\bai1\\bai1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B85E11-A251-48CE-BC92-45683039BB0A}|Bai1\\Bai1.csproj|solutionrelative:bai1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B85E11-A251-48CE-BC92-45683039BB0A}|Bai1\\Bai1.csproj|c:\\cnltweb\\bai1\\bai1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B6B85E11-A251-48CE-BC92-45683039BB0A}|Bai1\\Bai1.csproj|solutionrelative:bai1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\CNLTweb\\Bai1\\Bai1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bai1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CNLTweb\\Bai1\\Bai1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bai1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T00:39:33.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\CNLTweb\\Bai1\\Bai1\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Bai1\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\CNLTweb\\Bai1\\Bai1\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Bai1\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T00:36:51.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CNLTweb\\Bai1\\Bai1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai1\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\CNLTweb\\Bai1\\Bai1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Bai1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-21T00:32:21.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\CNLTweb\\Bai1\\Bai1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Bai1\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\CNLTweb\\Bai1\\Bai1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Bai1\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAowIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-21T00:34:10.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
