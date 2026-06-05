@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CNLTweb\\BMB5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD6770E-5961-4CB3-81CD-6DF9342E76CB}|BMB5\\BMB5.csproj|c:\\cnltweb\\bmb5\\bmb5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD6770E-5961-4CB3-81CD-6DF9342E76CB}|BMB5\\BMB5.csproj|solutionrelative:bmb5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD6770E-5961-4CB3-81CD-6DF9342E76CB}|BMB5\\BMB5.csproj|c:\\cnltweb\\bmb5\\bmb5\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD6770E-5961-4CB3-81CD-6DF9342E76CB}|BMB5\\BMB5.csproj|solutionrelative:bmb5\\middlewares\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD6770E-5961-4CB3-81CD-6DF9342E76CB}|BMB5\\BMB5.csproj|c:\\cnltweb\\bmb5\\bmb5\\bmb5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CD6770E-5961-4CB3-81CD-6DF9342E76CB}|BMB5\\BMB5.csproj|solutionrelative:bmb5\\bmb5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\CNLTweb\\BMB5\\BMB5\\Middlewares\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "BMB5\\Middlewares\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\CNLTweb\\BMB5\\BMB5\\Middlewares\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "BMB5\\Middlewares\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T04:21:56.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BMB5",
+              "DocumentMoniker": "C:\\CNLTweb\\BMB5\\BMB5\\BMB5.csproj",
+              "RelativeDocumentMoniker": "BMB5\\BMB5.csproj",
+              "ToolTip": "C:\\CNLTweb\\BMB5\\BMB5\\BMB5.csproj",
+              "RelativeToolTip": "BMB5\\BMB5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-05T04:21:26.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CNLTweb\\BMB5\\BMB5\\Program.cs",
+              "RelativeDocumentMoniker": "BMB5\\Program.cs",
+              "ToolTip": "C:\\CNLTweb\\BMB5\\BMB5\\Program.cs",
+              "RelativeToolTip": "BMB5\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T04:10:36.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
