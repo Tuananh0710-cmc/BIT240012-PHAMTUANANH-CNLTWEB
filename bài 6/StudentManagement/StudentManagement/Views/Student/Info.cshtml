@@ -1,0 +1,9 @@
+@model StudentManagement.Models.StudentInfo
+@{
+    ViewData["Title"] = "Student Info";
+}
+
+<h1>Thông tin sinh viên</h1>
+<p>Tên: @ViewBag.Name</p>
+<p>Tuổi: @ViewData["Age"]</p>
+<p>Ngành: @Model.Major</p>

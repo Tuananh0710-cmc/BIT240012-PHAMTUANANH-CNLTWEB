@@ -1,0 +1,28 @@
+﻿@model StudentManagement.Models.Student
+
+<h2>Thêm mới Sinh viên</h2>
+
+<form method="post" action="/Student/Create">
+    <div style="margin-bottom: 10px;">
+        <label>Tên sinh viên:</label><br />
+        <input type="text" name="Name" value="@Model?.Name" />
+        <span style="color:red;" asp-validation-for="Name"></span>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+        <label>Email:</label><br />
+        <input type="text" name="Email" value="@Model?.Email" />
+        <span style="color:red;" asp-validation-for="Email"></span>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+        <label>Số điện thoại:</label><br />
+        <input type="text" name="Phone" value="@Model?.Phone" />
+        <span style="color:red;" asp-validation-for="Phone"></span>
+    </div>
+
+    <button type="submit">Lưu lại</button>
+</form>
+
+<br />
+<a href="/Student/Index">Quay lại danh sách</a>

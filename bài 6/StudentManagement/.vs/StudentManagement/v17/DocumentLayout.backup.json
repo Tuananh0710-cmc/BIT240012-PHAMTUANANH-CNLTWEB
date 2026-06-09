@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CNLTweb\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|c:\\cnltweb\\studentmanagement\\studentmanagement\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|c:\\cnltweb\\studentmanagement\\studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|c:\\cnltweb\\studentmanagement\\studentmanagement\\views\\student\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|c:\\cnltweb\\studentmanagement\\studentmanagement\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|c:\\cnltweb\\studentmanagement\\studentmanagement\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|c:\\cnltweb\\studentmanagement\\studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|c:\\cnltweb\\studentmanagement\\studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{368CD519-0F00-4D94-B97D-90A7CD73CD0C}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagement\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T01:48:33.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Views\\Student\\Detail.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\Detail.cshtml",
+              "ToolTip": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Views\\Student\\Detail.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T01:53:38.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T01:53:12.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T01:52:33.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T01:51:15.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-09T01:49:45.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Models\\Student.cs",
+              "ToolTip": "C:\\CNLTweb\\StudentManagement\\StudentManagement\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T01:46:04.182Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

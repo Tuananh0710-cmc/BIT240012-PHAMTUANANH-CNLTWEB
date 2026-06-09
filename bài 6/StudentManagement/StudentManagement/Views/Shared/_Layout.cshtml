@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - StudentManagement</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/StudentManagement.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <h1>Website Quản lý Sinh viên</h1>
+    </header>
+
+    <nav style="margin-bottom: 20px;">
+        <a href="/">Home</a> |
+        <a href="/Student">Danh sách Sinh viên</a>
+    </nav>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer style="margin-top: 50px;">
+        <p>ASP.NET MVC Practice - Đối tác lập trình</p>
+    </footer>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
